@@ -1,3 +1,3 @@
-module github.com/tiaindaox/go-test-module
+module github.com/tiandaox/go-test-module
 
 go 1.15
